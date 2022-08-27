@@ -2,3 +2,5 @@
 
 Nama : Lucky Maulana
 Universitas Putra Indonesia
+
+Teknik Informatika
