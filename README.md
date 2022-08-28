@@ -4,3 +4,4 @@ Nama : Lucky Maulana
 Universitas Putra Indonesia
 
 Teknik Informatika
+Semester 7
